@@ -1,0 +1,5 @@
+1-"keyFile.py" dosyamızı çalıştırarak bir anahtar üretiyoruz
+2-"implementsLSB.py" dosyamızı çalıştırarak stego görüntü elde ediyoruz
+3- encrypt.py dosyamızı çalıştırarak resmi şifreliyoruz
+4- decrypt.py dosyaamız ile şifrelenmiş resmi deşifreleyebiliyoruz
+5- stego görüntü ve orjinal görüntümüzün aynı olmadığını görmek için psnr.py dosyamızı çalıştırabiliriz
